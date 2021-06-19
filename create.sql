@@ -22,4 +22,3 @@ CREATE TABLE books_subjects(
    FOREIGN KEY(book) REFERENCES books(id),
    FOREIGN KEY(subject) REFERENCES  subjects(id)
   );
-  

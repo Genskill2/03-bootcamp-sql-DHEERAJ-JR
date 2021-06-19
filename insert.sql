@@ -41,3 +41,4 @@ INSERT INTO books_subjects (book,subject) VALUES (7,4);
 INSERT INTO books_subjects (book,subject) VALUES (7,7);
 INSERT INTO books_subjects (book,subject) VALUES (8,7);
 INSERT INTO books_subjects (book,subject) VALUES (8,8);
+
